@@ -36,6 +36,7 @@ function App() {
         initialWeight = {180}
 
       />
+      
     </div>
   );
 }
